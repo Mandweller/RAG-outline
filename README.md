@@ -10,15 +10,9 @@ Before running the script, you need to install the required Python packages. Mak
 
 1. **Clone the repository:**
 
-git clone <repository-url>
-
 2. **Navigate to the project directory:**
 
-cd <project-directory>
-
-3. **Install the dependencies:**
-
-pip install -r requirements.txt
+3. **Install the dependencies from requirements.txt:**
 
 4. **Run the Script (in terminal)**
 
